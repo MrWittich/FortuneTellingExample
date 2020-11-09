@@ -96,10 +96,6 @@ namespace FortuneTellingExample
 
             Console.WriteLine("Goodbye, " + name);
 
-            if(color == "red" && number == "1")
-            {
-
-            }
         }
     }
 }
